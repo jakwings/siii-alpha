@@ -1,0 +1,21 @@
+[metadata]
+path = "/Siii"
+homepage = "http://localhost/Siii/"
+title = "Siii Blog"
+subtitle = "Another System Ruined By Markdown?"
+timezone = "Asia/Shanghai"
+author = "Author"
+[metadata.license]
+text = "Creative Commons BY-NC-SA 4.0"
+link = "http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"
+
+[[timelines]]
+name = "首頁"
+file = "index.txt"
+feed = true
+[[timelines]]
+name = "關於"
+file = "about.txt"
+[[timelines]]
+name = "友鏈"
+file = "links.txt"

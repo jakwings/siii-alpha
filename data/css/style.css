@@ -1,0 +1,32 @@
+.blog {
+  max-width: 50em;
+  margin: 2em auto;
+  padding: 0.5em;
+}
+.blog>.header {
+  text-align: center;
+  padding: 0.5em 1em;
+}
+.blog>.header .title {
+  font-size: 3em;
+}
+.blog>.header .subtitle {
+  font-size: 1em;
+}
+
+.timelines .events .list-group {
+  box-shadow: none;
+}
+.timelines .events .list-group-item {
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+}
+.timelines .events .nav a {
+  padding: 0.25em;
+  border-radius: 0;
+}
+
+.article {
+  border-top: 1px solid #ddd;
+}
