@@ -1,3 +1,5 @@
+# 1.0 Released: https://github.com/jakwings/Siii
+
 siii-alpha
 ==========
 
